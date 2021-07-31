@@ -1,0 +1,65 @@
+#menu, #content, #footer {
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: aquamarine;
+}
+#content {
+    width: auto;
+    height: auto;
+    background-color:bisque;
+}
+#footer {
+    width: auto;
+    height: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: darkgoldenrod;
+}
+
+table, th, td {
+        border: 2px solid black;
+        border-collapse: collapse;
+        padding: 5px;
+    }
+    tr {
+        text-align: center;
+        padding: 10px;
+    }
+    #mon {
+        background-color: yellow;
+    }
+    #tue {
+        background-color: palevioletred;
+    }
+    #wed {
+        background-color: green;
+    }
+    #thu {
+        background-color: orange;
+    }
+    #fri {
+        background-color: blue;
+    }
+    .text {
+        transform: rotate(-90deg); 
+        position:relative;
+    }
+    div {
+        text-align: center;
+        font-size: 20px;
+        color: rgb(27, 18, 112);
+        border: 15px solid rgb(187, 80, 18);
+        background-color: rgb(218, 189, 96);
+        padding-top: 20px;
+        padding-left: 20px;
+        padding-bottom: 20px;
+        padding-right: 20px;
+    
+        margin-top: 150px;
+        margin-left: 200px;
+        margin-bottom: 150px;
+        margin-right: 200px;
+    }
